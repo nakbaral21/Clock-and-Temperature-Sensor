@@ -1,0 +1,13 @@
+LM75.c:6:7:LM75_Temperature_9Bit_ReadReg	32	static
+LM75.c:27:7:LM75_Temperature_11Bit_ReadReg	32	static
+LM75.c:49:13:LM75_TemperatureWriteReg	40	static
+LM75.c:68:16:LM75_ReadConfig	24	static
+LM75.c:80:6:LM75_SleepMode	32	static
+LM75.c:96:6:LM75_ComparatorOrInterruptMode	32	static
+LM75.c:112:6:LM75_LevelOsMode	32	static
+LM75.c:128:6:LM75_FaultQueueMode	32	static
+LM75.c:153:7:LM75_TemperatureRead	8	static
+LM75.c:164:7:LM75_THYST_Read	8	static
+LM75.c:169:7:LM75_TOS_Read	8	static
+LM75.c:174:6:LM75_THYST_Write	16	static
+LM75.c:179:6:LM75_TOS_Write	16	static
